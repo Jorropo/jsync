@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0 OR MIT
+//
 // jsync is a package that implements various synchronisation helpers that are missing from [sync].
 // It does not and will not rely on golinkname to be portable.
 package jsync
